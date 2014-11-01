@@ -5,7 +5,7 @@ description: "Personal website of Zigmund Kermish"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: http://0.0.0.0:4000
+url: http://zkermish.github.com
 
 # Jekyll configuration
 
