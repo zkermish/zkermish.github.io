@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "Enough about you..."
+  image: horxata.jpg
+
+- title: Research
+  url: /research/ 
+  excerpt: "Learn more about what I do"
+  image: baffle.jpg
+  
+- title: CV
+  url: /cv/
+  excerpt: "For those interested in my professional credentials"
+  image: pton_grad.jpg
+
+- title: Blog
+  url: /blog/ 
+  excerpt: "The occasional ramblings"
+  image: pb_pano.jpg
