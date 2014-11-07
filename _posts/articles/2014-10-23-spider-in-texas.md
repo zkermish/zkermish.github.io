@@ -3,7 +3,7 @@ title: "Deployments of old 2: SPIDER in Texas"
 layout: article
 modified:
 categories: articles
-excerpt:
+excerpt: "Another historical post about SPIDER's first deployment"
 tags: [SPIDER, deployment]
 image:
   feature: spider_tx1.jpg
@@ -18,6 +18,11 @@ Texas was similar to my earlier deployment to the Eastern Sierras, but there's s
 The deployment was very hectic. As this was the first balloon-based experiment I've worked on, it was initially overwhelming to grasp the concept that you only have ~two more months to fix *everything*, and if you don't you'll either have to delay the flight an entire year or hedge your bets on whether or not things are 'good enough' for the probability of a successful flight.  There's certainly a different mindset when working on a ground based where your experiment isn't dangling from a balloon and you can literally walk up to it and fix problems over the course of observations.  While overwhelming, it's also thrilling to work your way through these problems and inspiring to see how everyone can band together and accomplish what might seem impossible at first.
 
 Again, I wish I blogged more regularly then.  As a poor substitute for that, here are some photos from my time in Texas:
+
+<figure>
+        <a href="{{ site.url }}/images/tx_sunset.jpg"><img src="{{ site.url }}/images/tx_sunset.jpg"></a>
+        <figcaption>While I didn't find much to do in Texas that I found interesting besides work and eating barbecue, I did enjoy the sunsets.</figcaption>
+</figure>
 
 <figure>
         <a href="{{ site.url }}/images/tx_csbf.jpg"><img src="{{ site.url }}/images/tx_csbf.jpg"></a>
@@ -38,6 +43,11 @@ Again, I wish I blogged more regularly then.  As a poor substitute for that, her
 <figure>
         <a href="{{ site.url }}/images/spider_tx_integration.jpg"><img src="{{ site.url }}/images/spider_tx_integration.jpg"></a>
         <figcaption>The fully integrated SPIDER experiment being lifted by the "Tiny Tim" launch vehicle.</figcaption>
+</figure>
+
+<figure>
+        <a href="{{ site.url }}/images/spider_groupshot.jpg"><img src="{{ site.url }}/images/spider_groupshot.jpg"></a>
+        <figcaption>A group portrait of a large fraction of the deployment crew. I'm not sure why my arms look so funny in this photo.</figcaption>
 </figure>
 
 A final note: SPIDER was supposed to be deployed to Antarctica directly following the integration in Texas.  Our crates and sea containers filled with equipment got as far as New Zealand before being boomeranged back due to the government shutdown that year.  
