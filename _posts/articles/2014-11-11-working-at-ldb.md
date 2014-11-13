@@ -27,7 +27,7 @@ LDB camp itself consists of several heated buildings to support the research pay
 
 <figure>
         <a href="{{ site.url }}/images/ldb_highbay_pano.jpg"><img src="{{ site.url }}/images/ldb_highbay_pano.jpg"></a>
-        <figcaption>A panorama of the high bays at LDB.  SPIDER is in the center highbay, Anita, is our neighbor to the left in this photo.  COSI (which is flying the first super-pressure ballon science payload) is having a weather port built for them all the way on the left of the photo.  You can also see the communications antennas and the CSBF building on the right of the photo.</figcaption>
+        <figcaption>A panorama of the high bays at LDB.  SPIDER is in the center highbay. ANITA, is our neighbor to the left in this photo.  COSI (which is flying the first super-pressure ballon science payload) is having a weather port built for them all the way on the left of the photo.  You can also see the communications antennas and the CSBF building on the right of the photo.</figcaption>
 </figure>
 
 <figure>
@@ -40,7 +40,7 @@ LDB camp itself consists of several heated buildings to support the research pay
         <figcaption>One of the more humorous lunch signs put up for a Sunday meal (when the usual chef is off and the station manager filled).  </figcaption>
 </figure>
 
-Work within the highbay isn't that different than work back in Princeton or in Texas, aside from the fact that the highbay is *really nice*; this is by far the best high bay / lab space I've had the pleasure of working in. However, it can get pretty crowded with all the parallel projects that need to be completed to prepare for integration.  
+Work within the highbay isn't that different than work back in Princeton or in Texas, aside from the fact that the highbay is *really nice*; this is by far the best high bay or field lab space I've had the pleasure of working in. However, it can get pretty crowded with all the parallel projects that need to be completed to prepare for integration.  
 
 <figure>
         <a href="{{ site.url }}/images/ldb_highbay_work.jpg"><img src="{{ site.url }}/images/ldb_highbay_work.jpg"></a>
