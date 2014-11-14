@@ -5,7 +5,7 @@ date: 2014-10-27
 modified:
 excerpt: "Enough about you..."
 image:
-  feature: horxata.jpg
+  feature: highres/horxata.jpg
   teaser: horxata.jpg
   thumb: horxata.jpg
 ads: false  

@@ -5,7 +5,7 @@ date: 2014-10-27
 modified:
 excerpt:
 image:
-  feature: spider_portrait_1600x800.jpg
+  feature: highres/spider_portrait_1600x800.jpg
   teaser: 
   thumb:
 ads: false  

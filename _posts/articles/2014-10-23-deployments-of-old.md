@@ -6,7 +6,7 @@ categories: articles
 excerpt: "An introduction to field deployments, on the eve of a new one"
 tags: [POLARBEAR, deployment]
 image:
-  feature: pb_pano.jpg
+  feature: highres/pb_pano.jpg
   teaser: pb_deploy.jpg
   thumb:
 ---
@@ -20,7 +20,7 @@ There are currently two sites in the world where folks like me deploy millimeter
 When I arrived in Chile, a concrete pad for the telescope had been built, the telescope itself was nearly assembled, and we'd just gotten power going at the site.  The list of things to achieve to go from that state to having the receiver integrated and a fully running experiment was quite long. One of my favorite photos from that deployment was this one of Mike and I after our first day on the site. We looked surprisingly happy despite the mountain of work ahead of us:
 <br>
 <figure>
-        <a href="{{ site.url }}/images/pb_deploy.jpg"><img src="{{ site.url }}/images/pb_deploy.jpg"></a>
+        <a href="{{ site.url }}/images/highres/pb_deploy.jpg"><img src="{{ site.url }}/images/highres/pb_deploy.jpg"></a>
         <figcaption>Mike and I on our first day at the site</figcaption>
 </figure>
 
@@ -28,12 +28,12 @@ When I arrived in Chile, a concrete pad for the telescope had been built, the te
 One of the big milestones during our first few weeks there was getting concrete poured for a path between our lab container (sea containers normally used for shipping are the quickest way to get indoor workspace in a remote site...our lab container ended up being something like a double-wide sea container with an extra bit added to the top for a hoist) and the telescope. If we didn't get that done, improvising to get the relatively heavy, extremely delicate receiver to the telescope would have been interesting. 
 
 <figure>
-	<a href="{{ site.url }}/images/pb_preconcrete.jpg"><img src="{{ site.url }}/images/pb_preconcrete.jpg"></a>
+	<a href="{{ site.url }}/images/highres/pb_preconcrete.jpg"><img src="{{ site.url }}/images/pb_preconcrete.jpg"></a>
 	<figcaption>The site just before the concrete truck arrived</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/pb_concreteday.jpg"><img src="{{ site.url }}/images/pb_concreteday.jpg"></a>
+	<a href="{{ site.url }}/images/highres/pb_concreteday.jpg"><img src="{{ site.url }}/images/pb_concreteday.jpg"></a>
 	<figcaption>Concrete day!</figcaption>
 </figure>
 
@@ -41,16 +41,16 @@ After that, I pretty much put my head down and lived in the lab container all da
 <br>
 
 <figure>
-	<a href="{{ site.url }}/images/pb_fpassem.jpg"><img src="{{ site.url }}/images/pb_fpassem.jpg"></a>
+	<a href="{{ site.url }}/images/highres/pb_fpassem.jpg"><img src="{{ site.url }}/images/pb_fpassem.jpg"></a>
 	<figcaption>Me working on installing the focal plane in the receiver</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/pb_receiverlift.jpg"><img src="{{ site.url }}/images/pb_receiverlift.jpg"></a>
+	<a href="{{ site.url }}/images/highres/pb_receiverlift.jpg"><img src="{{ site.url }}/images/pb_receiverlift.jpg"></a>
 	<figcaption>The team preparing to install the completed receiver into the telescope</figcaption>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/pb_done.jpg"><img src="{{ site.url }}/images/pb_done.jpg"></a>
+	<a href="{{ site.url }}/images/highres/pb_done.jpg"><img src="{{ site.url }}/images/pb_done.jpg"></a>
 	<figcaption>The fully operational experiment, several months later</figcaption>
 </figure>
