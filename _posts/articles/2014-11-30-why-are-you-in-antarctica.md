@@ -1,0 +1,27 @@
+---
+title: "Wait, why are you in Antarctica? "
+layout: article_inv
+modified:
+categories: articles
+excerpt: "My attempt at explaining (some of) the science"
+tags: [SPIDER, deployment]
+image:
+  feature: 507004main_Bubble.jpg
+  teaser:  507004main_Bubble.jpg
+  thumb:
+---
+
+I realized I've not yet written a blog post explaining why my experiment is in Antarctica.  Things are temporarily quiet on the Ice while we've been waiting for the SPIDER cryostat to cool down, so now's a good time to make the attempt.
+
+As I've mentioned in earlier posts about POLARBEAR and my deployments to Chile, water vapor absorbs millimeter waves and also provides an unwanted source of loading on our detectors, limiting their ultimate sensitivity.  To have as little between us and what we’re trying to observe and achieve the best sensitivity, we go to very high and dry locations. There are currently two *terrestrial* locations that are commonly used the Atacama Desert (where POLARBEAR sits at 5,200 meters) and the South Pole (where the South Pole Telescope, the KECK array, and this year BICEP3 operate at 2,800 meters). Of course, one can always go beyond terrestrial limits.  With a big enough budget and enough time to develop the project, you can launch a dedicated satellite mission to eliminate the atmosphere all together, achieving dramatically improved individual detector sensitivities.  Historically, satellite-based instruments have often provided the definitive measurements of various aspects of the CMB, but they usually build upon the groundbreaking discoveries made closer to Earth. These discoveries have been made from the ground and from one other platform: balloons.
+
+Balloon-borne instruments have one big advantage: they allow us to get above nearly all of the atmosphere, approaching the detector sensitivity of satellite-based instruments at a fraction of the cost of a satellite mission.  This increased detector sensitivity relative to what can be achieved from the ground enables two important points: you can observe a larger fraction of the sky for a significantly shorter amount of time and still get a higher fidelity map than what you can do from the ground (observing for days rather than years) and you can observe in  frequency channels that are difficult (if not impossible) to use from the ground.  Both of these features, multiple frequencies and larger sky coverage, are necessary to ultimately demonstrate the 'cosmological nature' of the signals we're looking for -- to show that it's not just a signal from some foreground in our local galaxy and that it has the required statistical properties across the sky we expect from proposed theories. As shown in the below gif, SPIDER can observe a large fraction of the 'clean' sky for 20 days and get nearly the same sensitivity over that region as a ground based experiment like BICEP2 had on their smaller region after several years of observation.
+
+<figure>
+	<img src="{{ site.url }}/images/dust_regions.gif"></a>
+        <figcaption>A map of the dust intensity seen in the sky, the bright center band the emission from our own Milky Way galaxy. The overlay that is fading in shows several things: The colored diamonds show the most recent data about the *polarization* strength of the dust signal, blue being less polarized dust, the outlines on the overlay show the regions observed (or to be observed shortly!) by BICEP2 (green), POLARBEAR (red), and SPIDER (white).  </figcaption>
+</figure>
+
+Ok, so that's why we want dangle our instrument from a balloon.  But why Antarctica?  Why don't we just launch our balloon from New Jersey? Well, for one, at some point, we need to drop the payload. So scientific payload balloon flights only happen in places with low population density.  In the US, payloads are flown out of Fort Sumner, New Mexico.  They used to fly out of Palestine, Texas as well.  Payloads flown out of these locations are limited to flights anywhere from a few hours to a few days because they eventually start getting to close to population centers.  Antarctica doesn't have any population centers, so rather than being limited by distance, flights are limited by how long the balloons can stay afloat.  Currently, that's about 40 days.  Beyond that, weather patterns setup circumpolar winds during the austral summer here.  So if you launch a balloon at the right time, it'll come back close to where it started, making recovery of the payload easier (it takes about a week to 'boomerang' back around). This is especially important for an experiment like ours since we need to physically recover our data off the drives that fly with the payload.  The bandwidth of in-flight communications limits us to only getting a small fraction of the data from the instrument during flight. One of the many ballooning challenges is to make the system as autonomous as possible so minimal human intervention based on the limited information we decide 'downlink' to the ground is needed.  
+
+The other fundamental challenges of ballooning that make this a very different game from ground-based experiments I've also worked on: weight and power constraints. Having to fly the batteries you want to use during the experiment, the solar panels to charge them, the cryogens to keep the system cool and all the readout and control electronics systems while still staying below the maximum mass limits current balloons can float makes projects like this a fun problem to solve.

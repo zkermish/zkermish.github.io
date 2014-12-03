@@ -388,7 +388,24 @@
       text-shadow: 1px 1px 0 $black;
     }
   }
+  &.overlayinv h2 {
+    @include media($medium) {
+      color: $white;
+      text-shadow: 1px 1px 0 $black;
+    }
+  }
   &.overlay .page-meta {
+    @include media($medium) {
+      span {
+        color: $white;
+        text-shadow: 1px 1px 0 $black;
+        a {
+          color: $white;
+        }
+      }
+    }
+  }
+  &.overlayinv .page-meta {
     @include media($medium) {
       span {
         color: $white;
