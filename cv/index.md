@@ -53,5 +53,6 @@ Honors and awards
 * Princeton Fellowship in Experimental Physics (Dicke Fellow) 2012
 * NASA Postdoctoral Fellowship (declined) 2012
 * NASA Graduate Student Research Program Fellowship 2004-2006
-* National Science Foundation Graduate Program honorable mention 2003, 2004 • Allen G. Shenstone prize in experimental physics, Princeton University, 2003
+* National Science Foundation Graduate Program honorable mention 2003, 2004  
+* Allen G. Shenstone prize in experimental physics, Princeton University, 2003
 * Member, Sigma Xi Scientific Research Society, since June 2003
