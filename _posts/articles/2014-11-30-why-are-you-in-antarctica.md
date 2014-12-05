@@ -1,7 +1,7 @@
 ---
 title: "Wait, why are you in Antarctica? "
 layout: article_inv
-modified:
+modified: 2014-12-05
 categories: articles
 excerpt: "My attempt at explaining (some of) the science"
 tags: [SPIDER, deployment]
