@@ -29,11 +29,11 @@ The circumpolar wind pattern has set up as of about last week, but flight opport
 
 <figure>
         <a href="{{ site.url }}/images/highres/anita_on_the_boss1.jpg"><img src="{{ site.url }}/images/anita_on_the_boss1.jpg"></a>
-        <figcaption>A closer view of ANITA on the Boss.  ANITA searches for high-energy neutrinos interacting with the Antarctic ice. All the horn shaped antennas you see are radio receivers that will be pointed down at a the ice of the continent.  Neutrinos interacting in the ice will emit radio waves via the Askaryan effect, an analog of Cherenkov light. </figcaption>
+        <figcaption>A closer view of ANITA on the Boss.  ANITA searches for high-energy neutrinos interacting with the Antarctic ice. All the horn shaped antennas you see are radio receivers that survey the ice of the continent.  High-energy neutrinos interacting in the ice will emit radio waves via the <a href="http://en.wikipedia.org/wiki/Askaryan_effect">Askaryan effect</a>.</figcaption>
 </figure>
 
 
-Things in the SPIDER highbay have also been moving along well as we prepare for our own flight. We always knew we'd be the final launch; the cryogenic aspects of our payload add a lot of time to the integration schedule, and the system is a complicated beast. Despite all that, we're only about a week away from declaring ourselves flight ready! We're now happily practicing scanning the telescope in full-flight-mode during the night shift, where the observations and detector optimization are all done autonomously.    
+Things in the SPIDER highbay have also been moving along well as we prepare for our own flight. We always knew we'd be the final launch; the cryogenic aspects of our payload add a lot of time to the integration schedule, and the system is a complicated beast. Despite all that, we're only about a week away from declaring ourselves flight ready! We're now happily practicing scanning the telescope in full-flight-mode during the night shift, where the observations and detector optimization are all done autonomously. Next up: mounting the sunshields and solar panel arrays!    
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/c2X9um6qdPA" frameborder="0" allowfullscreen></iframe>
