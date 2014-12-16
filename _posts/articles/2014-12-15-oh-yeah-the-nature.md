@@ -3,7 +3,7 @@ title: "Oh yeah, the nature."
 layout: article
 modified:
 categories: articles
-excerpt: "A non-sequitor about the natural beauty in Antarctica"
+excerpt: "Thoughts on the natural beauty in Antarctica"
 tags: [deployment]
 image:
   feature: highres/horizon.jpg
