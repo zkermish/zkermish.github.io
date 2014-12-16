@@ -7,3 +7,6 @@ gem "sass"
 gem "bourbon"
 gem "neat"
 gem 'octopress', '~> 3.0.0.rc.12'
+gem 'flickraw'
+gem 'builder', '> 2.0.0'
+gem 'persistent_memoize'

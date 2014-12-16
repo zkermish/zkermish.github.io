@@ -19,6 +19,13 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
+flickr:
+  api_key: a207e49f3ddb12a8fd31bce79a0f7ccc
+  secret: 3dd75b019b4acc73
+  user_id: 7366402@N03
+  thumb_size: 'n'
+  large_size: 'b'
+  dir: 'photos'
 
 # Site owner
 owner:
