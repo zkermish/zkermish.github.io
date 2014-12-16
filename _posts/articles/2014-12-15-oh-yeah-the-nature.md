@@ -25,7 +25,7 @@ Aside from the work and the often breath-taking views along the daily drive, the
 
 <figure>
         <a href="{{ site.url }}/images/highres/weddel_fromjon.jpg"><img src="{{ site.url }}/images/weddel_fromjon.jpg"></a>
-        <figcaption>A Weddel seal lounging in the sun along the pressure ridges. Photo by <a href="http://jegudmunds.wordpress.com">Jon</a>.</figcaption>
+        <figcaption>A Weddel seal mom and pup. Photo by <a href="http://jegudmunds.wordpress.com">Jon</a>.</figcaption>
 </figure>
 
 My iPhone was surprisingly good at capturing some of the scenery of the Ice itself as I randomly snapped photos. It wasn't that great at handling the cold though, as it powered down and needed re-warming in my pocket three times during the ~2 hour hike. Below is a gallery of some of the best shots.  
