@@ -30,7 +30,7 @@ The next morning, I took part in a video chat with the 3rd grade classes of <a h
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/SwBTDQ5JCEM" frameborder="0" allowfullscreen></iframe>
 
-SPIDER also made some great strides to near flight readiness this week. We installed our 'wall of power,' a four by six array of light-weight solar panels that will keep our batteries charged in flight. We then rolled the instrument outside for the first time to test the solar panel array throughput and looked at the Antarctic sky for the first time through our telescopes. Of course, with all that progress on integrating the systems, we discovered yet more issues and bugs to fix, but that's to be expected. We're making lots of progress on all the issues we've uncovered, so we're hoping to be on schedule for a launch soon enough!
+SPIDER also made some great strides to near flight readiness this week. We installed our 'wall of power,' a four by six array of light-weight solar panels that will keep our batteries charged in flight. We then rolled the instrument outside to test the solar panel array throughput and looked at the Antarctic sky for the first time through our telescopes. Of course, with all that progress on integrating the systems, we discovered yet more issues and bugs to fix, but that's to be expected. We're making lots of progress on all the issues we've uncovered, so we're hoping to be on schedule for a launch soon enough!
 
 <figure>
         <a href="{{ site.url }}/images/highres/spider_abb.jpg"><img src="{{ site.url }}/images/spider_abb.jpg"></a>
