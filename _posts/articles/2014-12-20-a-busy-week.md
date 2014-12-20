@@ -12,14 +12,14 @@ image:
 
 ---
 
-This has been an eventful week for SPIDER, myself, and LDB overall!  The first launch of the season happened this Thursday, with a beautiful launch of the ANITA instrument. The shuttle schedules and my shift schedule made it so I wasn't at LDB during launch myself, but many of my colleagues were there and able to get some excellent photos. See the animated gif below I made from John Ruhl's photos.  
+This has been an eventful week for SPIDER, myself, and LDB overall.  The first launch of the season happened this Thursday, with a beautiful launch of the ANITA instrument. The shuttle schedules and my shift schedule made it so I wasn't at LDB during launch myself, but many of my colleagues were there and able to get some excellent photos. See the animated gif below I made from John Ruhl's photos.  
 
 <figure>
         <a href="{{ site.url }}/images/anita_launch_lower.gif"><img src="{{ site.url }}/images/anita_launch_lower.gif"></a>
         <figcaption>Animated GIF of ANITA's launch (photos by John Ruhl). The winds changed direction after the balloon was already laid out on the launchpad, so you can see the Boss driver had to make a quick correction to end up with a beautifully smooth launch. </figcaption>
 </figure>
 
-The next morning, I took part in a video chat with the 3rd grade classes of <a href ="http://www.hoover.pausd.org"><Hoover Elementary<a> in Palo Alto, CA. Thanks to my friend <a href ="https://twitter.com/MsElsaChen">Ms. Elsa Chen</a> for setting it up. The students had some excellent questions and seemed pretty excited when I showed them our telescope and the view of Mt. Erebus outside our door. I had a great time talking to them and I hope they enjoyed learning a little bit about our work and research life in Antarctica.
+The next morning, I took part in a video chat with the 3rd grade classes of <a href ="http://www.hoover.pausd.org">Hoover Elementary</a> in Palo Alto, CA. Thanks to my friend <a href ="https://twitter.com/MsElsaChen">Ms. Elsa Chen</a> for setting it up. The students had some excellent questions and seemed pretty excited when I showed them our telescope and the view of Mt. Erebus outside our door. I had a great time talking to them and I hope they enjoyed learning a little bit about our work and research life in Antarctica.
   
 <figure>
         <a href="{{ site.url }}/images/highres/hoover_elem.jpg"><img src="{{ site.url }}/images/hoover_elem.jpg"></a>
