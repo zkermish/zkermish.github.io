@@ -37,4 +37,4 @@ The photo below is the group picture we took at the conference. I'm somewhere in
         <figcaption>  </figcaption>
 </figure>
 
-I've had the pleasure of working closely with many people in this photo, learning from their vast experience and collective knowledge. Many thanks to all my mentors and colleagues for their support over the years. While it's often been hard work, it's also been a lot of fun building microwave telescopes and traveling all over the world to deploy them. I have lots of great stories for Otis. I look forward to what's next for me, but I'll certainly miss research and the people I've worked with. 
+I've had the pleasure of working closely with many people in this photo, learning from their vast experience and collective knowledge. Many thanks to all my mentors and colleagues for their support over the years. It's been a lot of fun building microwave telescopes and traveling all over the world to deploy them. I have lots of great stories for Otis. I look forward to what's next for me, but I'll certainly miss research and the people I've worked with. 
