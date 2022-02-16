@@ -6,7 +6,7 @@ logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
 #url: http://0.0.0.0:4000
-url: http://zkermish.github.io
+url: https://zkermish.github.io
 
 # Jekyll configuration
 
@@ -30,7 +30,7 @@ flickr:
 # Site owner
 owner:
   name: Zigmund Kermish
-  web: http://zkermish.github.io
+  web: https://zkermish.github.io
   email: zkermish@gmail.com
   twitter: zkermish
   bio: "A guy who likes cities, food, and building things for science"
